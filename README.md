@@ -27,6 +27,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Tiny U-Net Forward Pass | Assemble a time-conditioned U-Net from scratch with residual blocks, downsampling, upsampling and skip connections. | https://www.tensortonic.com/problems/diffusion-l03-tiny-unet-forward |
 | Gaussian Naive Bayes | Fit Gaussian Naive Bayes class statistics and predict labels from priors and feature likelihoods. | https://www.tensortonic.com/problems/gaussian-naive-bayes |
 | Logistic Regression Training Loop | Train binary logistic regression in NumPy using sigmoid probabilities, gradient descent, and learned weight and bias parameters. | https://www.tensortonic.com/problems/logistic-regression-training |
+| Random Forest Majority Vote | Combine multiple decision-tree predictions with majority voting and deterministic handling of tied classes. | https://www.tensortonic.com/problems/random-forest-vote |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/shubhsh522)
 <!-- tensortonic:end -->
