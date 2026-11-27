@@ -24,6 +24,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Evaluate a Multi-Layer Perceptron | Evaluate a supplied multi-layer perceptron by feeding each layer output into the next layer. | https://www.tensortonic.com/problems/autograd-l07-mlp-forward |
 | Apply One Full SGD Training Step | Run one complete training step for a tanh neuron over a batch by deriving every gradient manually with tensor arithmetic. | https://www.tensortonic.com/problems/autograd-l08-sgd-training-step |
 | Train a Tiny Micrograd MLP | Train a supplied scalar-output MLP with manual reverse-mode differentiation and deterministic gradient descent. | https://www.tensortonic.com/problems/autograd-l08-train-tiny-micrograd-mlp |
+| Decode Attention with a KV Cache | Append one key and value position to a KV cache and compute grouped-query attention for the next token. | https://www.tensortonic.com/problems/cs336-l10-kv-cache-decode-step |
 | Decision Tree Best Split | Find the best decision-tree split by evaluating candidate feature thresholds and selecting the largest impurity reduction. | https://www.tensortonic.com/problems/decision-tree-split |
 | Tiny U-Net Forward Pass | Assemble a time-conditioned U-Net from scratch with residual blocks, downsampling, upsampling and skip connections. | https://www.tensortonic.com/problems/diffusion-l03-tiny-unet-forward |
 | Gaussian Naive Bayes | Fit Gaussian Naive Bayes class statistics and predict labels from priors and feature likelihoods. | https://www.tensortonic.com/problems/gaussian-naive-bayes |
